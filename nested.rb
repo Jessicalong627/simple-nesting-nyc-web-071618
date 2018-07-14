@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-    my_hash[:third] = "i'm third!"
+    programmer_hash[:yukihiro_matsumoto] = "i'm third!"
 end
 
 def changing_alan
