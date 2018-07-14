@@ -81,8 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
-    .join
+    my_hash[:third] = "i'm third!"
 end
 
 def changing_alan
